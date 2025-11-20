@@ -1,0 +1,5 @@
+{
+  "name": "Delta RCM",
+  "description": "Advanced CPT claims analysis tool featuring provider performance tracking, AQL code summaries, denial analytics, and financial trend visualization.",
+  "requestFramePermissions": []
+}
